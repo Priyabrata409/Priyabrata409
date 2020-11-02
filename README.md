@@ -10,4 +10,12 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyabrata-panda-80485018a/ "LinkedIn")
 - 😄 Pronouns: He/Mr.
 - ⚡ Fun fact: I am a good Batsman and Bowler
+
+
+
+
+
+
+
+
 ![](https://github-readme-stats.vercel.app/api?username=Priyabrata409&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=161616)
