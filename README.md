@@ -9,7 +9,7 @@
 - 💬 Ask me about any thing on Python,Flask,OOPs Programing,Data Science
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyabrata-panda-80485018a/ "LinkedIn")
 - 😄 Pronouns: He/Mr.
-- ⚡ Fun fact: I am a good Batsman and Bowler
+- ⚡ Fun fact: I am an amazing cook.
 
 
 
