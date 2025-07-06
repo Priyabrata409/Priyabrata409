@@ -1,11 +1,11 @@
-###   Hi there, I'm Priyabrata Panda 👋
+###     Hi there, I'm Priyabrata Panda 👋
 🔭 Currently working as a Software Developer
 
 🌱 Skilled in Python, AWS, Kubernetes, Docker, Kafka, and RabbitMQ
 
 💼 Over 3 years of professional experience in designing, developing, and deploying scalable, production-ready applications
 
-📫 Connect with me on LinkedIn
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyabrata-panda-80485018a/ "LinkedIn")
 
 😄 Pronouns: He/Him
 
