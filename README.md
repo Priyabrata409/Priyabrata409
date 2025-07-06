@@ -1,15 +1,15 @@
-### Hello ! My name is Priyabrata Panda 👋
+###   Hi there, I'm Priyabrata Panda 👋
+🔭 Currently working as a Software Developer
 
+🌱 Skilled in Python, AWS, Kubernetes, Docker, Kafka, and RabbitMQ
 
+💼 Over 3 years of professional experience in designing, developing, and deploying scalable, production-ready applications
 
+📫 Connect with me on LinkedIn
 
-- 🔭 I’m currently working as a freelancer at Fiverr and Upwork
-- 🌱 I’m currently working on Machine Learning and Deep Learning.
-- 🤔 I’m looking for help regarding getting an Internship
-- 💬 Ask me about any thing on Machine Learning, Deep Learning, Python, SQL. 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyabrata-panda-80485018a/ "LinkedIn")
-- 😄 Pronouns: He/Mr.
-- ⚡ Fun fact: I am an amazing cook.
+😄 Pronouns: He/Him
+
+🍳 Fun fact: I'm a passionate and creative cook outside of tech!
 
 
 
